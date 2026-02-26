@@ -1,7 +1,5 @@
 # CONTRIBUTING POLICY
 
-### Repository Status: Public
-
 Thank you Contributing 🤩
 
 ## OVERVIEW
